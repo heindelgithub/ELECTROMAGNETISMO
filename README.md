@@ -47,7 +47,7 @@ Esto es una ~~palabra~~ tachada
 [Escuela Colombiana](https://www.escuelaing.edu.co/es/)
 
 [Video 8](https://web.microsoftstream.com/video/e1f4d521-132d-4a4f-8c08-ce5e2c9326d2)
-
+[Ir a vectores](https://github.com/heindelgithub/electro/blob/main/Vectores)
 ---
 ___
 
