@@ -118,22 +118,27 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
   7. **RELACIÓN ENTRE POTENCIAL ELÉCTRICO Y CAMPO ELÉCTRICO**
 
- Existe una relación matemática entre el potencial y el campo eléctrico.
+ Existe una relación matemática entre el potencial y el campo eléctrico, que se va a mostrar en el siguiente video.
      
   https://web.microsoftstream.com/video/f6812777-359d-47ed-8a57-0281369440ab
   
 
   8. **CAPACITANCIA ELÉCTRICA**
 
-  Definición de un capacitor o condensador eléctrico
+  Definición de un capacitor o condensador eléctrico y capacitancia eléctrica
 
    https://web.microsoftstream.com/video/2fc705ac-e025-48f5-b1da-db7994746c1e
     
   *Capacitores conectados en serie*.
 
+  Se presenta un circuito eléctrico con condensadores conectados en serie, con una fuente de voltaje
+
   https://www.screencast.com/t/VGgv9vv3Zdv
 
    *Capacitores conectados en paralelo*.
+
+   Se presenta un circuito eléctrico con condensadores conectados en paralelo, con una fuente de voltaje
+
 
    https://www.screencast.com/users/heindel.otero/folders/Camtasia%20Studio/media/c045bd6c-3df7-4dd5-a6e2-93c7dbb57edd
 
@@ -153,13 +158,15 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    Usando condensadores eléctricos se habla acerca de la tranferencia de unergía, desde
    
-   un condensador hacia otro condensador eléctrico
+   un condensador hacia otro condensador eléctrico.
 
    https://express.adobe.com/video/4qwqeJTZYc3nt
 
    https://spark.adobe.com/video/4qwqeJTZYc3nt
    
   12. **CAPACITORES CON DIELÉCTRICO**
+
+  Se analiza el efecto de un dieléctrico dentro de un condensador o capacitor.
     
   https://spark.adobe.com/video/pfJd7iSyvJebt
     
@@ -173,30 +180,30 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
  13. **CORRIENTE ELÉCTRICA**
 
-Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática
+ Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática
   
-https://www.screencast.com/t/H5jz2MvfRK
+ https://www.screencast.com/t/H5jz2MvfRK
 
 
-14. **RESISTIVIDAD**
+ 14. **RESISTIVIDAD**
 
-Se da el concepto y la ecuación matemática de resistividad eléctrica
+ Se da el concepto y la ecuación matemática de resistividad eléctrica
  
-https://spark.adobe.com/video/dUVEqMLtTSinh
+ https://spark.adobe.com/video/dUVEqMLtTSinh
 
-15. **RESISTENCIA ELÉCTRICA**
+ 15. **RESISTENCIA ELÉCTRICA**
 
-Se presenta el concepto de resistencia eléctrica y la ecuación matemática.
+ Se presenta el concepto de resistencia eléctrica y la ecuación matemática.
  
-https://spark.adobe.com/video/duXHIMjB5IvSU
+ https://spark.adobe.com/video/duXHIMjB5IvSU
 
-16. **LEY DE OHM Y POTENCIA ELÉCTRICA**
+ 16. **LEY DE OHM Y POTENCIA ELÉCTRICA**
 
-Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica
+ Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica
  
-https://spark.adobe.com/video/1CQYobvnhPFg0
+ https://spark.adobe.com/video/1CQYobvnhPFg0
 
-*Circuito resistivo en serie*.
+ *Circuito resistivo en serie*.
 
 Se explica la conexión de resistencias conectadas en serie con una fuente de voltaje.
 
@@ -209,13 +216,17 @@ Se explica la conexión de resistencias conectadas en paralelo con una fuente de
 https://spark.adobe.com/video/i2vgrdxMtIWh9
 
 
-17. **CIRCUITO RC** 
+17. **CIRCUITO RC**
+
+Se hace un análisis detallado del circuito en serie compuesto por un condensador, 
+
+una resistencia eléctrica y una fuente de voltaje.
 
  https://spark.adobe.com/video/yYXJ5T1sRpWme
 
 18. **MAGNETISMO**
 
-Se presenta el concepto de magnetismo y las fuentes que lo generan
+Se presenta el concepto de magnetismo y las fuentes que lo generan.
 
  https://www.screencast.com/t/vgOOW5xb
 
@@ -223,7 +234,7 @@ Se presenta el concepto de magnetismo y las fuentes que lo generan
 
 *Ley de Biot-Savart*
 
-Esta ley permite hacer cálculos de campos magnéticos producidos por corrientes eléctricas
+Esta ley permite hacer cálculos de campos magnéticos producidos por corrientes eléctricas.
 
 https://www.screencast.com/t/pWzCoYn2Bq5
 
