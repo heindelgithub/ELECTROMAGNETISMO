@@ -8,7 +8,7 @@ Los temas que se cubren son los siguientes:
 Carga eléctrica, fuerza eléctrica, campo eléctrico, potencial eléctrico, capacitancia eléctrica, circuitos con capacitores, energía almacenada en un condensador, energía de campo eléctrico, transferencia de carga y energía, corriente eléctrica, resistividad y resistencia eléctrica, ley de Ohm y potencia eléctrica, circuitos con resistencias, circuito RC, magnetismo, Ley de Biot-Savart y fuerza magnética producida en alambres con corrientes eléctricas.
 
 ### TEMAS
-1. CARGA ELÉCTRICA
+1. **CARGA ELÉCTRICA**
   
 Enlace al concepto de carga eléctrica:
 
@@ -23,7 +23,7 @@ Ejercicio de carga eléctrica.
 https://web.microsoftstream.com/video/10241056-f09b-4dd3-81fe-922f215c64bd
 
 
-2. FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS
+2. **FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
 
 Enlace a fuerza eléctrica entre dos cargas.
   
@@ -37,7 +37,7 @@ https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
  https://web.microsoftstream.com/video/eea16b79-9e3b-4865-863f-90c6a1e871ae
 
 
- 3. CAMPO ELÉCTRICO
+ 3. **CAMPO ELÉCTRICO**
 
  Campo eléctrico producido por cargas eléctricas
 
@@ -67,15 +67,15 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
  https://web.microsoftstream.com/video/bff79eee-e0d0-49d6-a1a3-ef009b0a609f
 
- 4. CONDUCTORES Y DIELÉCTRICOS
+ 4. **CONDUCTORES Y DIELÉCTRICOS**
 
  https://web.microsoftstream.com/video/f22dc3f7-3530-4a60-9d27-0c600c95c585
 
- 5. ENERGÍA POTENCIAL ELÉCTRICA
+ 5. **ENERGÍA POTENCIAL ELÉCTRICA**
 
  https://web.microsoftstream.com/video/6926836f-820b-4684-9e55-aa6f704945f2
 
- 6. POTENCIAL ELÉCTRICO
+ 6. **POTENCIAL ELÉCTRICO**
 
   Definición del potencial eléctrico
 
@@ -110,7 +110,42 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
   https://web.microsoftstream.com/video/a7553c1e-49a1-4c31-8b4c-45127c625637
 
+  7. **RELACIÓN ENTRE POTENCIAL ELÉCTRICO Y CAMPO ELÉCTRICO**
+     
+  https://web.microsoftstream.com/video/f6812777-359d-47ed-8a57-0281369440ab
+  
 
+  8. **CAPACITANCIA ELÉCTRICA**
+
+   https://web.microsoftstream.com/video/2fc705ac-e025-48f5-b1da-db7994746c1e
+    
+  *Capacitores conectados en serie*.
+
+  https://www.screencast.com/t/VGgv9vv3Zdv
+
+   *Capacitores conectados en paralelo*.
+
+   https://www.screencast.com/users/heindel.otero/folders/Camtasia%20Studio/media/c045bd6c-3df7-4dd5-a6e2-93c7dbb57edd
+
+   9. **ENERGÍA ALMACENADA EN UN CAPACITOR**
+
+   https://spark.adobe.com/video/DwkMa0UQm3xNd
+
+   10. **ENERGÍA DE CAMPO ELÉCTRICO**
+
+   https://spark.adobe.com/video/eMvaF2Ix9dYWy
+
+   11. **TRANSFERENCIA DE CARGA Y ENERGÍA**
+
+  https://express.adobe.com/video/4qwqeJTZYc3nt
+
+  https://spark.adobe.com/video/4qwqeJTZYc3nt
+  
+ 
+   
+
+
+  
   
 
 
