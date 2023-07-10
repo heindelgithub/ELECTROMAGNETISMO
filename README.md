@@ -172,27 +172,39 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
   https://www.screencast.com/t/SEezRisUem6C
 
  13. **CORRIENTE ELÉCTRICA**
+
+Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática
   
 https://www.screencast.com/t/H5jz2MvfRK
 
 
 14. **RESISTIVIDAD**
+
+Se da el concepto y la ecuación matemática de resistividad eléctrica
  
 https://spark.adobe.com/video/dUVEqMLtTSinh
 
 15. **RESISTENCIA ELÉCTRICA**
+
+Se presenta el concepto de resistencia eléctrica y la ecuación matemática.
  
 https://spark.adobe.com/video/duXHIMjB5IvSU
 
 16. **LEY DE OHM Y POTENCIA ELÉCTRICA**
+
+Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica
  
 https://spark.adobe.com/video/1CQYobvnhPFg0
 
 *Circuito resistivo en serie*.
 
+Se explica la conexión de resistencias conectadas en serie con una fuente de voltaje.
+
 https://spark.adobe.com/video/AP7oc3d2xpftk
 
 *Circuito resistivo en paralelo*.
+
+Se explica la conexión de resistencias conectadas en paralelo con una fuente de voltaje.
 
 https://spark.adobe.com/video/i2vgrdxMtIWh9
 
@@ -202,6 +214,8 @@ https://spark.adobe.com/video/i2vgrdxMtIWh9
  https://spark.adobe.com/video/yYXJ5T1sRpWme
 
 18. **MAGNETISMO**
+
+Se presenta el concepto de magnetismo y las fuentes que lo generan
 
  https://www.screencast.com/t/vgOOW5xb
 
