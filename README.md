@@ -183,6 +183,26 @@ https://spark.adobe.com/video/i2vgrdxMtIWh9
 
  https://spark.adobe.com/video/yYXJ5T1sRpWme
 
+18. **MAGNETISMO**
+
+ https://www.screencast.com/t/vgOOW5xb
+
+19. **CAMPO MAGNÉTICO PRODUCIDO POR UNA CORRIENTE ELÉCTRICA**.
+
+*Ley de Biot-Savart*
+
+https://www.screencast.com/t/pWzCoYn2Bq5
+
+20. **FUERZA MAGNÉTICA**
+
+ https://www.screencast.com/t/hdiyiKOT
+
+*Fuerza magnética en alambre con corriente eléctrica*.
+
+https://www.screencast.com/t/6hULkXNkL
+
+
+
 
 
 
