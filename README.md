@@ -1,4 +1,4 @@
-## *ELECTROMAGNETISMO CON AUDIOVISUALES*
+orzar el concepto de ## *ELECTROMAGNETISMO CON AUDIOVISUALES*
 ### Objetivo.
 El objetivo de esta publicación es de presentar un material, que les facilita el estudio a muchas personas interesadas en tener conocimientos de electromagnetismo, sin asistir a un aula de clase presencial, también, puede servir como material preparatorio en caso de validación de un curso de electromagnetismo asociado a un programa de ingeniería.
 ### Método de enseñanza.
