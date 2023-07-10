@@ -1,4 +1,4 @@
-orzar el concepto de ## *ELECTROMAGNETISMO CON AUDIOVISUALES*
+## **ELECTROMAGNETISMO CON AUDIOVISUALES**
 ### Objetivo.
 El objetivo de esta publicación es de presentar un material, que les facilita el estudio a muchas personas interesadas en tener conocimientos de electromagnetismo, sin asistir a un aula de clase presencial, también, puede servir como material preparatorio en caso de validación de un curso de electromagnetismo asociado a un programa de ingeniería.
 ### Método de enseñanza.
@@ -81,7 +81,7 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
   https://web.microsoftstream.com/video/c9ea292d-b964-4d1e-84af-ff581716429b
 
-  Se presentan seis ejercicios de potencial eléctrico.
+  Para reforzar el concepto de potencial eléctrico, se presentan seis ejercicios.
 
   Ejercicio 6.1 
 
@@ -137,9 +137,57 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    11. **TRANSFERENCIA DE CARGA Y ENERGÍA**
 
-  https://express.adobe.com/video/4qwqeJTZYc3nt
+   https://express.adobe.com/video/4qwqeJTZYc3nt
 
-  https://spark.adobe.com/video/4qwqeJTZYc3nt
+   https://spark.adobe.com/video/4qwqeJTZYc3nt
+   
+  12. **CAPACITORES CON DIELÉCTRICO**
+    
+  https://spark.adobe.com/video/pfJd7iSyvJebt
+    
+  Condensadores con dieléctricos ejemplo 1. 
+
+   https://www.screencast.com/t/55ct21tl
+
+  Condensadores con dieléctricos ejemplo 2 
+
+  https://www.screencast.com/t/SEezRisUem6C
+
+ 13. **CORRIENTE ELÉCTRICA**
+  
+https://www.screencast.com/t/H5jz2MvfRK
+
+
+14. **RESISTIVIDAD**
+ 
+https://spark.adobe.com/video/dUVEqMLtTSinh
+
+15. **RESISTENCIA ELÉCTRICA**
+ 
+https://spark.adobe.com/video/duXHIMjB5IvSU
+
+16. **LEY DE OHM Y POTENCIA ELÉCTRICA**
+ 
+https://spark.adobe.com/video/1CQYobvnhPFg0
+
+*Circuito resistivo en serie*.
+
+https://spark.adobe.com/video/AP7oc3d2xpftk
+
+*Circuito resistivo en paralelo*.
+
+https://spark.adobe.com/video/i2vgrdxMtIWh9
+
+
+17. **CIRCUITO RC** 
+
+ https://spark.adobe.com/video/yYXJ5T1sRpWme
+
+
+
+
+
+   
   
  
    
