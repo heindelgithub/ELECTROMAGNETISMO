@@ -26,11 +26,11 @@ circuito RC, magnetismo, Ley de Biot-Savart y fuerza magnética producida en ala
 ### TEMAS
 1. **CARGA ELÉCTRICA**
   
-Se presenta el concepto de carga eléctrica:
+Se presenta el concepto de carga eléctrica que hay en el universo:
 
 https://web.microsoftstream.com/video/6e476c8f-fd31-4f05-9e25-b10edb376e3c
 
-Conceptos de vectores unitarios
+Conceptos de vectores unitarios.
 
 https://web.microsoftstream.com/video/307e9459-0aff-4f8b-997a-2b2965675ab9
 
@@ -41,31 +41,33 @@ https://web.microsoftstream.com/video/10241056-f09b-4dd3-81fe-922f215c64bd
 
 2. **FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
 
-Se presenta el concepto de fuerza eléctrica entre dos cargas.
+Se habla acerca de la fuerza eléctrica que hay entre dos o mas cargas eléctricas.
   
 https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
 
 
  *Método de superposición*.
 
- Se usa para el cálculo de fuerza eléctrica producido por tres o más cargas eléctricas.
+ Se usa para el cálculo de fuerza eléctrica producida por tres o más cargas eléctricas.
 
  https://web.microsoftstream.com/video/eea16b79-9e3b-4865-863f-90c6a1e871ae
 
 
  3. **CAMPO ELÉCTRICO**
 
- Se introduce el concepto de campo eléctrico producido por cargas eléctricas
+ Se introduce el concepto de campo eléctrico con su estructura matemática, producido por cargas eléctricas.
 
  https://web.microsoftstream.com/video/2936c640-8cd6-4d4c-999c-99f8295240f0
 
 
-Campo eléctrico producido por dos cargas puntuales
+Se estudia el campo eléctrico producido por dos cargas puntuales.
 
 https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
 
- Campo eléctrico producido por cargas distribuidas
+ Se analiza el campo eléctrico producido por cargas distribuidas.
+
+ Se define la densidad de carga lineal.
 
  https://web.microsoftstream.com/video/b32804e5-7e65-45df-9498-4218ca3c5493
 
@@ -80,6 +82,8 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
  https://web.microsoftstream.com/video/e1f4d521-132d-4a4f-8c08-ce5e2c9326d2
 
  *Carga eléctrica distribuida en una superficie*.
+ 
+ Se define la densidad de carga superficial.
 
  https://web.microsoftstream.com/video/bff79eee-e0d0-49d6-a1a3-ef009b0a609f
 
@@ -87,23 +91,23 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
 Se presentan los conceptos de carga eléctrica depositada en un material conductor y 
 
-carga eléctrica depositada en un material aislante
+carga eléctrica depositada en un material aislante.
 
  https://web.microsoftstream.com/video/f22dc3f7-3530-4a60-9d27-0c600c95c585
 
  5. **ENERGÍA POTENCIAL ELÉCTRICA**
 
-Se introduce el concepto y la ecuación matemática de la energía potencial eléctrica
+Se introduce el concepto y la ecuación matemática de la energía potencial eléctrica.
 
  https://web.microsoftstream.com/video/6926836f-820b-4684-9e55-aa6f704945f2
 
  6. **POTENCIAL ELÉCTRICO**
 
-  Definición del potencial eléctrico
+  Definición del potencial eléctrico, con su estructura matemática.
 
   https://web.microsoftstream.com/video/c9ea292d-b964-4d1e-84af-ff581716429b
 
-  Para reforzar el concepto de potencial eléctrico, se presentan seis ejercicios.
+  Para reforzar el concepto de potencial eléctrico, se presentan seis ejercicios, que son:
 
   Ejercicio 6.1 
 
@@ -141,19 +145,19 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
   8. **CAPACITANCIA ELÉCTRICA**
 
-  Definición de un capacitor o condensador eléctrico y capacitancia eléctrica
+  Definición de un capacitor o condensador eléctrico y de la capacitancia eléctrica.
 
    https://web.microsoftstream.com/video/2fc705ac-e025-48f5-b1da-db7994746c1e
     
   *Capacitores conectados en serie*.
 
-  Se presenta un circuito eléctrico con condensadores conectados en serie, con una fuente de voltaje
+  Se presenta un circuito eléctrico con condensadores conectados en serie, con una fuente de voltaje.
 
   https://www.screencast.com/t/VGgv9vv3Zdv
 
    *Capacitores conectados en paralelo*.
 
-   Se presenta un circuito eléctrico con condensadores conectados en paralelo, con una fuente de voltaje
+   Se presenta un circuito eléctrico con condensadores conectados en paralelo, con una fuente de voltaje.
 
 
    https://www.screencast.com/users/heindel.otero/folders/Camtasia%20Studio/media/c045bd6c-3df7-4dd5-a6e2-93c7dbb57edd
@@ -166,13 +170,15 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    10. **ENERGÍA DE CAMPO ELÉCTRICO**
 
-   Se presenta la ecuación de la nergía de campo eléctrico
+   Se presenta la ecuación de la nergía de campo eléctrico, el cual es independiente
+   
+   de la forma geométrica del condensador.
 
    https://spark.adobe.com/video/eMvaF2Ix9dYWy
 
    11. **TRANSFERENCIA DE CARGA Y ENERGÍA**
 
-   Usando condensadores eléctricos se habla acerca de la tranferencia de unergía, desde
+   Usando condensadores eléctricos se hace un análisis acerca de la tranferencia de energía, desde
    
    un condensador hacia otro condensador eléctrico.
 
@@ -182,7 +188,7 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
    
   12. **CAPACITORES CON DIELÉCTRICO**
 
-  Se analiza el efecto de un dieléctrico dentro de un condensador o capacitor.
+  Se analiza el efecto físico que produce un dieléctrico, dentro de un condensador o capacitor.
     
   https://spark.adobe.com/video/pfJd7iSyvJebt
     
@@ -196,14 +202,14 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
  13. **CORRIENTE ELÉCTRICA**
 
- Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática
+ Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática.
   
  https://www.screencast.com/t/H5jz2MvfRK
 
 
  14. **RESISTIVIDAD**
 
- Se da el concepto y la ecuación matemática de resistividad eléctrica
+ Se da el concepto y la ecuación matemática de resistividad eléctrica.
  
  https://spark.adobe.com/video/dUVEqMLtTSinh
 
@@ -215,7 +221,7 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
  16. **LEY DE OHM Y POTENCIA ELÉCTRICA**
 
- Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica
+ Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica.
  
  https://spark.adobe.com/video/1CQYobvnhPFg0
 
@@ -234,7 +240,7 @@ https://spark.adobe.com/video/i2vgrdxMtIWh9
 
 17. **CIRCUITO RC**
 
-Se hace un análisis detallado del circuito en serie compuesto por un condensador, 
+Se hace un análisis detallado del circuito en serie, compuesto por un condensador, 
 
 una resistencia eléctrica y una fuente de voltaje.
 
@@ -255,6 +261,8 @@ Esta ley permite hacer cálculos de campos magnéticos producidos por corrientes
 https://www.screencast.com/t/pWzCoYn2Bq5
 
 20. **FUERZA MAGNÉTICA**
+
+Se hace un análisis de la fuerza magnética producida en alambres que llevan corriente eléctrica.
 
  https://www.screencast.com/t/hdiyiKOT
 
