@@ -10,7 +10,7 @@ Carga eléctrica, fuerza eléctrica, campo eléctrico, potencial eléctrico, cap
 ### TEMAS
 1. **CARGA ELÉCTRICA**
   
-Enlace al concepto de carga eléctrica:
+Se presenta el concepto de carga eléctrica:
 
 https://web.microsoftstream.com/video/6e476c8f-fd31-4f05-9e25-b10edb376e3c
 
@@ -25,12 +25,12 @@ https://web.microsoftstream.com/video/10241056-f09b-4dd3-81fe-922f215c64bd
 
 2. **FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
 
-Enlace a fuerza eléctrica entre dos cargas.
+Se presenta el concepto de fuerza eléctrica entre dos cargas.
   
 https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
 
 
- Método de superposición.
+ *Método de superposición*.
 
  Se usa para el cálculo de fuerza eléctrica producido por tres o más cargas eléctricas.
 
@@ -39,7 +39,7 @@ https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
 
  3. **CAMPO ELÉCTRICO**
 
- Campo eléctrico producido por cargas eléctricas
+ Se introduce el concepto de campo eléctrico producido por cargas eléctricas
 
  https://web.microsoftstream.com/video/2936c640-8cd6-4d4c-999c-99f8295240f0
 
@@ -63,15 +63,21 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
  https://web.microsoftstream.com/video/e1f4d521-132d-4a4f-8c08-ce5e2c9326d2
 
- Carga eléctrica distribuida en una superficie.
+ *Carga eléctrica distribuida en una superficie*.
 
  https://web.microsoftstream.com/video/bff79eee-e0d0-49d6-a1a3-ef009b0a609f
 
  4. **CONDUCTORES Y DIELÉCTRICOS**
 
+Se presentan los conceptos de carga eléctrica depositada en un material conductor y 
+
+carga eléctrica depositada en un material aislante
+
  https://web.microsoftstream.com/video/f22dc3f7-3530-4a60-9d27-0c600c95c585
 
  5. **ENERGÍA POTENCIAL ELÉCTRICA**
+
+Se introduce el concepto y la ecuación matemática de la energía potencial eléctrica
 
  https://web.microsoftstream.com/video/6926836f-820b-4684-9e55-aa6f704945f2
 
@@ -111,11 +117,15 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
   https://web.microsoftstream.com/video/a7553c1e-49a1-4c31-8b4c-45127c625637
 
   7. **RELACIÓN ENTRE POTENCIAL ELÉCTRICO Y CAMPO ELÉCTRICO**
+
+ Existe una relación matemática entre el potencial y el campo eléctrico.
      
   https://web.microsoftstream.com/video/f6812777-359d-47ed-8a57-0281369440ab
   
 
   8. **CAPACITANCIA ELÉCTRICA**
+
+  Definición de un capacitor o condensador eléctrico
 
    https://web.microsoftstream.com/video/2fc705ac-e025-48f5-b1da-db7994746c1e
     
@@ -129,13 +139,21 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    9. **ENERGÍA ALMACENADA EN UN CAPACITOR**
 
+   Se presenta el concepto y la relación matemática de la energía almacenada en un condensador.
+
    https://spark.adobe.com/video/DwkMa0UQm3xNd
 
    10. **ENERGÍA DE CAMPO ELÉCTRICO**
 
+   Se presenta la ecuación de la nergía de campo eléctrico
+
    https://spark.adobe.com/video/eMvaF2Ix9dYWy
 
    11. **TRANSFERENCIA DE CARGA Y ENERGÍA**
+
+   Usando condensadores eléctricos se habla acerca de la tranferencia de unergía, desde
+   
+   un condensador hacia otro condensador eléctrico
 
    https://express.adobe.com/video/4qwqeJTZYc3nt
 
@@ -191,15 +209,20 @@ https://spark.adobe.com/video/i2vgrdxMtIWh9
 
 *Ley de Biot-Savart*
 
+Esta ley permite hacer cálculos de campos magnéticos producidos por corrientes eléctricas
+
 https://www.screencast.com/t/pWzCoYn2Bq5
 
 20. **FUERZA MAGNÉTICA**
 
  https://www.screencast.com/t/hdiyiKOT
 
-*Fuerza magnética en alambre con corriente eléctrica*.
+*Fuerza magnética en un alambre con corriente eléctrica*.
 
 https://www.screencast.com/t/6hULkXNkL
+
+
+
 
 
 
