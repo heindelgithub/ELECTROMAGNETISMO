@@ -43,6 +43,7 @@ corriente eléctrica, resistividad y resistencia eléctrica, ley de Ohm y potenc
 circuito RC, magnetismo, Ley de Biot-Savart y fuerza magnética producida en alambres con corrientes eléctricas.
 
 ### TEMAS
+<div align="center">
 1. **CARGA ELÉCTRICA**
 
 Se presenta el concepto de carga eléctrica que hay en el universo:
@@ -57,7 +58,8 @@ Ejercicio de carga eléctrica.
 
 https://web.microsoftstream.com/video/10241056-f09b-4dd3-81fe-922f215c64bd
 
-
+<br></div>
+<div align="center">
 2. **FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
 
 Se habla acerca de la fuerza eléctrica que hay entre dos o mas cargas eléctricas.
@@ -71,7 +73,7 @@ https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
 
  https://web.microsoftstream.com/video/eea16b79-9e3b-4865-863f-90c6a1e871ae
 
-
+<br></div>
  3. **CAMPO ELÉCTRICO**
 
  Se introduce el concepto de campo eléctrico con su estructura matemática, producido por cargas eléctricas.
