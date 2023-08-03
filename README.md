@@ -45,7 +45,7 @@ circuito RC, magnetismo, Ley de Biot-Savart y fuerza magnética producida en ala
 
 
 
-##**Módulo 1. -CARGA ELÉCTRICA**
+## **Módulo 1. -CARGA ELÉCTRICA**
 
 Se presenta el concepto de carga eléctrica que hay en el universo:
 
@@ -61,7 +61,7 @@ https://web.microsoftstream.com/video/10241056-f09b-4dd3-81fe-922f215c64bd
 
 
 
-##**Módulo 2. -FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
+## **Módulo 2. -FUERZA ELÉCTRICA PRODUCIDA ENTRE CARGAS ELÉCTRICAS**
 
 Se habla acerca de la fuerza eléctrica que hay entre dos o mas cargas eléctricas.
 
@@ -75,7 +75,7 @@ https://web.microsoftstream.com/video/88ec2a58-7f31-453a-88eb-9c76e846b565
  https://web.microsoftstream.com/video/eea16b79-9e3b-4865-863f-90c6a1e871ae
 
 
- ##**Módulo 3. -CAMPO ELÉCTRICO**
+ ## **Módulo 3. -CAMPO ELÉCTRICO**
 
  Se introduce el concepto de campo eléctrico con su estructura matemática, producido por cargas eléctricas.
 
@@ -109,7 +109,7 @@ https://web.microsoftstream.com/video/7ee19374-e9a2-4c03-98a0-93155b51e881
 
  https://web.microsoftstream.com/video/bff79eee-e0d0-49d6-a1a3-ef009b0a609f
 
- ##**Módulo 4. -CONDUCTORES Y DIELÉCTRICOS**
+ ## **Módulo 4. -CONDUCTORES Y DIELÉCTRICOS**
 
 Se presentan los conceptos de carga eléctrica depositada en un material conductor y
 
@@ -117,13 +117,13 @@ carga eléctrica depositada en un material aislante.
 
  https://web.microsoftstream.com/video/f22dc3f7-3530-4a60-9d27-0c600c95c585
 
- ##**Módulo 5. -ENERGÍA POTENCIAL ELÉCTRICA**
+ ## **Módulo 5. -ENERGÍA POTENCIAL ELÉCTRICA**
 
 Se introduce el concepto y la ecuación matemática de la energía potencial eléctrica.
 
  https://web.microsoftstream.com/video/6926836f-820b-4684-9e55-aa6f704945f2
 
- ##**Módulo 6. -POTENCIAL ELÉCTRICO**
+ ## **Módulo 6. -POTENCIAL ELÉCTRICO**
 
   Definición del potencial eléctrico, con su estructura matemática.
 
@@ -158,14 +158,14 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
   https://web.microsoftstream.com/video/a7553c1e-49a1-4c31-8b4c-45127c625637
 
-  ##**Módulo 7. -RELACIÓN ENTRE POTENCIAL ELÉCTRICO Y CAMPO ELÉCTRICO**
+  ## **Módulo 7. -RELACIÓN ENTRE POTENCIAL ELÉCTRICO Y CAMPO ELÉCTRICO**
 
  Existe una relación matemática entre el potencial y el campo eléctrico, que se va a mostrar en el siguiente video.
 
   https://web.microsoftstream.com/video/f6812777-359d-47ed-8a57-0281369440ab
 
 
-  ##**Módulo 8. -CAPACITANCIA ELÉCTRICA**
+  ## **Módulo 8. -CAPACITANCIA ELÉCTRICA**
 
   Definición de un capacitor o condensador eléctrico y de la capacitancia eléctrica.
 
@@ -184,13 +184,13 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    https://www.screencast.com/users/heindel.otero/folders/Camtasia%20Studio/media/c045bd6c-3df7-4dd5-a6e2-93c7dbb57edd
 
-   ##**Módulo 9. -ENERGÍA ALMACENADA EN UN CAPACITOR**
+   ## **Módulo 9. -ENERGÍA ALMACENADA EN UN CAPACITOR**
 
    Se presenta el concepto y la relación matemática de la energía almacenada en un condensador.
 
    https://spark.adobe.com/video/DwkMa0UQm3xNd
 
-   ##**Módulo 10. -ENERGÍA DE CAMPO ELÉCTRICO**
+   ## **Módulo 10. -ENERGÍA DE CAMPO ELÉCTRICO**
 
    Se presenta la ecuación de la nergía de campo eléctrico, el cual es independiente
 
@@ -198,7 +198,7 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    https://spark.adobe.com/video/eMvaF2Ix9dYWy
 
-   ##**Módulo 11. -TRANSFERENCIA DE CARGA Y ENERGÍA**
+   ## **Módulo 11. -TRANSFERENCIA DE CARGA Y ENERGÍA**
 
    Usando condensadores eléctricos se hace un análisis acerca de la tranferencia de energía, desde
 
@@ -208,7 +208,7 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
    https://spark.adobe.com/video/4qwqeJTZYc3nt
 
-  ##**Módulo 12. -CAPACITORES CON DIELÉCTRICO**
+  ## **Módulo 12. -CAPACITORES CON DIELÉCTRICO**
 
   Se analiza el efecto físico que produce un dieléctrico, dentro de un condensador o capacitor.
 
@@ -222,26 +222,26 @@ https://web.microsoftstream.com/video/54834746-d3c3-4687-adc2-e055de0f22b3
 
   https://www.screencast.com/t/SEezRisUem6C
 
- ##**Módulo 13. -CORRIENTE ELÉCTRICA**
+ ## **Módulo 13. -CORRIENTE ELÉCTRICA**
 
  Se presenta la definición de corriente eléctrica, con su respectiva ecuación matemática.
 
  https://www.screencast.com/t/H5jz2MvfRK
 
 
- ##**Módulo 14. -RESISTIVIDAD**
+ ## **Módulo 14. -RESISTIVIDAD**
 
  Se da el concepto y la ecuación matemática de resistividad eléctrica.
 
  https://spark.adobe.com/video/dUVEqMLtTSinh
 
- ##**Módulo 15. -RESISTENCIA ELÉCTRICA**
+ ## **Módulo 15. -RESISTENCIA ELÉCTRICA**
 
  Se presenta el concepto de resistencia eléctrica y la ecuación matemática.
 
  https://spark.adobe.com/video/duXHIMjB5IvSU
 
- ##**Módulo 16. -LEY DE OHM Y POTENCIA ELÉCTRICA**
+ ## **Módulo 16. -LEY DE OHM Y POTENCIA ELÉCTRICA**
 
  Se presenta la relación entre corriente eléctrica, potencial y resistencia eléctrica.
 
@@ -260,7 +260,7 @@ Se explica la conexión de resistencias conectadas en paralelo con una fuente de
 https://spark.adobe.com/video/i2vgrdxMtIWh9
 
 
-##**Módulo 17. -CIRCUITO RC**
+## **Módulo 17. -CIRCUITO RC**
 
 Se hace un análisis detallado del circuito en serie, compuesto por un condensador,
 
@@ -268,13 +268,13 @@ una resistencia eléctrica y una fuente de voltaje.
 
  https://spark.adobe.com/video/yYXJ5T1sRpWme
 
-##**Módulo 18. -MAGNETISMO**
+## **Módulo 18. -MAGNETISMO**
 
 Se presenta el concepto de magnetismo y las fuentes que lo generan.
 
  https://www.screencast.com/t/vgOOW5xb
 
-##**Módulo 19. -CAMPO MAGNÉTICO PRODUCIDO POR UNA CORRIENTE ELÉCTRICA**.
+## **Módulo 19. -CAMPO MAGNÉTICO PRODUCIDO POR UNA CORRIENTE ELÉCTRICA**.
 
 *Ley de Biot-Savart*
 
@@ -282,7 +282,7 @@ Esta ley permite hacer cálculos de campos magnéticos producidos por corrientes
 
 https://www.screencast.com/t/pWzCoYn2Bq5
 
-##**Módulo 20. -FUERZA MAGNÉTICA**
+## **Módulo 20. -FUERZA MAGNÉTICA**
 
 Se hace un análisis de la fuerza magnética producida en alambres que llevan corriente eléctrica.
 
